@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Jessica.
+- 💞️ A full stack software engineer from New York.
